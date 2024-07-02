@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Pia Gupta 👋
 
-<!--
-**pia-gupta27/pia-gupta27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Computer Science student at TIET, and the Media and PR Head at LEAD TIET. I'm interested in data science.
 
-Here are some ideas to get you started:
+## My Portfolio
+[Check out my portfolio website](https://pia-gupta.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Contact Me
+- Email: pgupta_be21@thapar.edu
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pia-gupta27/)
+
+## Tech Stack
+
+
