@@ -10,13 +10,13 @@ Ambitious and resourceful problem-solver with a passion for coding. A self-drive
 - 💻 Interested in Data Science and Machine Learning.
 
 
-
 ## My Portfolio
 Explore my skills, projects, and professional journey at [my portfolio website](https://pia-gupta.netlify.app/)
 
 
 
 ## Skills
+
 
 ### Languages & Libraries
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -40,7 +40,6 @@ Explore my skills, projects, and professional journey at [my portfolio website](
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 
-
 ## Projects
 
 - [**GLUCare : Non-Invasive Glucose Monitoring System**](https://github.com/pia-gupta27/capstone-GLUCare)
@@ -56,7 +55,6 @@ Explore my skills, projects, and professional journey at [my portfolio website](
 - [**RideX - Taxi Management System**](https://github.com/pia-gupta27/RIDEX-Taxi-Management-System)
   - A centralized Taxi Service Database for efficient management of services, drivers, passengers, and financial transactions.
   - **Technologies:** SQL, PL/SQL
-
 
 
 ## Get in Touch
