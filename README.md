@@ -5,9 +5,10 @@
 
 Ambitious and resourceful problem-solver with a passion for coding. A self-driven and inquisitive individual, dedicated to exploring new domains and expanding my learning curve. 
 
+
 - 🎓 Final-year Computer Engineering student at TIET.
 - 💻 Interested in Data Science and Machine Learning.
-- 🎨 Avid painter and sports enthusiast (badminton and swimming).
+
 
 
 ## My Portfolio
