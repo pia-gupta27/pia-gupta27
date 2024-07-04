@@ -1,5 +1,6 @@
 # Hi there, I'm Pia Gupta 👋
 
+
 ## About Me
 
 Ambitious and resourceful problem-solver with a passion for coding. A self-driven and inquisitive individual, dedicated to exploring new domains and expanding my learning curve. 
@@ -8,8 +9,10 @@ Ambitious and resourceful problem-solver with a passion for coding. A self-drive
 - 💻 Interested in Data Science and Machine Learning.
 - 🎨 Avid painter and sports enthusiast (badminton and swimming).
 
+
 ## My Portfolio
 Explore my skills, projects, and professional journey at [my portfolio website](https://pia-gupta.netlify.app/)
+
 
 
 ## Skills
@@ -27,12 +30,14 @@ Explore my skills, projects, and professional journey at [my portfolio website](
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
+
 ### Developer Tools
 ![Microsoft VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
 
 
 ## Projects
@@ -50,6 +55,7 @@ Explore my skills, projects, and professional journey at [my portfolio website](
 - [**RideX - Taxi Management System**](https://github.com/pia-gupta27/RIDEX-Taxi-Management-System)
   - A centralized Taxi Service Database for efficient management of services, drivers, passengers, and financial transactions.
   - **Technologies:** SQL, PL/SQL
+
 
 
 ## Get in Touch
