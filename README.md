@@ -47,7 +47,7 @@ Explore my skills, projects, and professional journey at [my portfolio website](
     patients using machine learning.
   - **Technologies:** Numpy, Pandas, Scikit-Learn, Matplotlib.
 
-- [**Sales Forecast Prediction System**](https://github.com/pia-gupta27/sales-forecast)
+- [**RETAIL MASTER: Sales Tracking & Prediction System**](https://github.com/pia-gupta27/retail-master)
   - Project centered on maximizing sales of existing and new product launches through strategic decision-making in retail
     stores.
   - **Technologies:** Numpy, Pandas, Scikit-Learn, Matplotlib.
